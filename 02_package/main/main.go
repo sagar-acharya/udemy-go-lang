@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/udemy-go-lang/02_package/stringutil"
+	"github.com/sagar-acharya/udemy-go-lang/02_package/stringutil"
 )
 
 func main() {
